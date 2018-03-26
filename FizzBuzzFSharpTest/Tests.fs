@@ -29,8 +29,3 @@ let InputOf5ShouldReturnBuzz () =
 let InputOf15ShouldReturnFizzBuzz () =
     let result = FizzBuzzFSharp.fizzBuzz(15)
     Assert.Equal("FizzBuzz", result)
-    
-[<Fact>]
-let AddFizzAddsFizz () =
-    let result = FizzBuzzFSharp.addFizz("test")
-    Assert.Equal("testFizz", result)
