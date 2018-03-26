@@ -4,6 +4,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzzFSharp", "FizzBuzzF
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzzFSharpTest", "FizzBuzzFSharpTest\FizzBuzzFSharpTest.fsproj", "{B1F7ABC1-D2AB-4F35-BBBB-D1E9779E16B2}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzzFSharpConsole", "FizzBuzzFSharpConsole\FizzBuzzFSharpConsole.fsproj", "{379A1229-B507-4A95-A64A-4AFB55C9D9CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B1F7ABC1-D2AB-4F35-BBBB-D1E9779E16B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1F7ABC1-D2AB-4F35-BBBB-D1E9779E16B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1F7ABC1-D2AB-4F35-BBBB-D1E9779E16B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379A1229-B507-4A95-A64A-4AFB55C9D9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379A1229-B507-4A95-A64A-4AFB55C9D9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379A1229-B507-4A95-A64A-4AFB55C9D9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379A1229-B507-4A95-A64A-4AFB55C9D9CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
